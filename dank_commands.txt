@@ -1,0 +1,10 @@
+pls beg = 45s
+pls pm = 69s
+pls trivia = 0.6s
+pls hl = 6s
+pls dep all = 5m
+pls hunt = 40h
+pls fish = 40m
+pls dig = 40s
+pls search = 30s
+pls crime = 30s
