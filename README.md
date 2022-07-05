@@ -1,8 +1,8 @@
 # codeordan
-HI SO LIKE I HAVE BEEN ADDING STUFF TO DIS BYMSELF SO WISH ME LUCKCKKKKK
+im too lazy to actually use html
 
 uh so like for user agent just search up:
-what is my user agent.
+"what is my user agent."
 
 example: Mozilla/5.0 (xxxx; cpu OS Version) thingy/420.69 (thingy, like Gecko) Chrome/101.0.6969.69 Safari/420.69
 
